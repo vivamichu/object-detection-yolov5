@@ -1,7 +1,9 @@
-# Person Detection in Low-Light Conditions
+# Pedestrian Detection in Low-Light Conditions
 
 This repository implements an **object detection pipeline for identifying people in low-light environments** using a YOLO-based model.  
 The project focuses on dataset analysis, preprocessing, training, and evaluation tailored specifically for dark and low-visibility scenes.
+
+<img width="602" height="325" alt="image" src="https://github.com/user-attachments/assets/b4e4ab87-6d57-492b-9c28-31d31fda1732" />
 
 ---
 
